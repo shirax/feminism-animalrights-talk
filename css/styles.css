@@ -1,0 +1,29 @@
+.reveal section img.no-border {
+  background: none;
+  border: none;
+  box-shadow: none;
+}
+
+.reveal .h1-top {
+  margin-top: -350px;
+}
+
+.reveal section ul li {
+  white-space: nowrap;
+}
+
+.reveal section img.two-images {
+  height: 250px;
+}
+
+.reveal section img.portrait {
+  height: 400px;
+}
+
+.reveal section img.three-images {
+  height: 300px;
+}
+
+.reveal section img.headline {
+  width: 700px;
+}
